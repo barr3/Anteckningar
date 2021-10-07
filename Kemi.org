@@ -1,0 +1,51 @@
+* Kemiska bindningar
+** Intermolekylära bindningar
+*** Jonbindning 
+Atomer som har har tagit emot eller gett ifrån sig en eller fler elektroner och på så sätt skapat en negativt eller positivt laddad jon.
+
+
+\[ Li \rightarrow Li ^{+} + e^{-} \]
+
+\[ Cl + e^{-} \rightarrow Cl^{-} \] 
+
+- Joner har ädelgasstruktur. 
+- När två joner med olika laddningar reagerar dras de samman av elektrostatisk attraktion. Jonerna sitter i kristallform i ett salt.
+- Jonbindningar är starka, vilket gör att jonföreningar har hög kokpunkt.
+- Jonbindningar leder ström i smält form, eller i vattenslösning. Om man vill kolla om ett ämne är en jonförening eller en molekyl kan man lösa ämnet i vatten. Om det leder ström är det en jonförening, annars är det en molekyl.
+- Negativa atomjoner får ändelsen -id.
+
+**** Joners storlekar 
+- En metallatom är större än en metalljon eftersom natriumatomen har elektroner i 3 atomskal, men natriumjonen har bara 2 atomskal.
+- Tvärt om är det för ickemetalljoner, de har större diameter än motsvarande atom. Detta eftersom jonen har fler elektroner, så kärnan kan inte dra i elektronerna lika mycket.
+- Atomradien ökar med perioden.
+
+**** Joniseringsenergi & Reaktivitet
+- Joniseringsenergi är den energi so krävs för att avlägsna en elektron från en atom.
+- Desto större atomradie, desto mer reaktivt blir ämnet, metallernas reaktivitet ökar alltå med perioden. 
+
+  
+*** Kovalent bindning
+En kovalent bindning är en kemisk bindning varpå två eller fler atomer delar på valenselektroner för att uppnå ädelgasstruktur, även kallat elektronparbindning eller molekylbindning.
+
+**** Polärkovalent bindning
+
+**** Dipoler - Polära molekyler
+
+** Intramolekylära bindningar
+*** Dipol-dipol-bindning
+*** Vätebindning
+*** van der Waalsbindning
+
+** Bindningars egenskaper
+
+
+
+*** Löslighet
+*** 
+
+* Organiska ämnen - Kolföreningar
+
+
+
+  
+
