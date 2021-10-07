@@ -27,9 +27,23 @@ Atomer som har har tagit emot eller gett ifrån sig en eller fler elektroner och
 *** Kovalent bindning
 En kovalent bindning är en kemisk bindning varpå två eller fler atomer delar på valenselektroner för att uppnå ädelgasstruktur, även kallat elektronparbindning eller molekylbindning.
 
+- Elektronegativitet är ett mått på hur benägen en atom är att dra till sig en elektron. I periodiska systemet kan man se det som en pil som går från längst ned till vänster - francium, till längst upp till höger - Fluor.
+- Skillnaden i elektronegativitet mellan två ämnen avgör vilken typ av bindning det blir mellan dem.
+
 **** Polärkovalent bindning
+En polärkovalent bindning är en kovalent bindning med ämnen med olika elektronegativitet. Detta göra att elektronerna kommer att dras lite mer mot ena atomen. Då blir ena atomen lite positivt laddad, och andra blir lite negativt ladded. Detta betecknas med \( \delta ^ {+} \) och \( \delta ^{-} \).
 
 **** Dipoler - Polära molekyler
+
+En dipol är en molekyl som har en negativ och en positiv laddning. 
+För att vara en dipol måste en molekyl uppfylla två kriterier. 
+
+1) Molekylen innehåller polärkovalenta bindningar.
+2) Laddningscentra för den positiva respektive den negativa laddningen är på olika ställen.
+
+Ett exempel på en dipol är vatten. H och O har stor skillnad i elektronegativitet och bildar därför polärkovalenta bindningar. Laddningscentrat för negativa och positiva laddningar är också på olika ställen. 
+
+Koldioxid är inte en dipol. Trots att C och O bildar polärkovalenta bindningar, så är laddningscentra för negativa och positiva laddningar på samma ställa. Koldioxid har alltså ingen laddning. 
 
 ** Intramolekylära bindningar
 *** Dipol-dipol-bindning
