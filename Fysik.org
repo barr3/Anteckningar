@@ -4,10 +4,12 @@
 - Alla mekaniska vågor har ett medium och en källa.
 - Vattenvågor, ljudvågor, seismiska vågor, och en pendel är alla exempel på mekaniska vågor.
 
-** Egenskaper för en våglängd
+** Egenskaper för en våg
 - Våglängd (λ) - Längden mellan två punkter som berfinner sig i samma läge på en våg (till exempel längst till "vänster" på en våglängd). Enhet: meter (m).
 
-- Amplitud - Är ett mått från svängningens jämviktsläge till dess maxläge. Amplituden är ett absolutvärde, allstå är det samma amplitud i en topp som i en dal.
+- Utslag - Avståndet från en viss punkt till jämviktsläget i y-led.
+
+- Amplitud - Är ett mått från svängningens jämviktsläge till dess maxläge, alltså det maximala utslaget. Amplituden är ett absolutvärde, allstå är det samma amplitud i en topp som i en dal.
   Enhet: Enhet (och storhet) beror på vilken typ av våg det är. Om man mäter en vattenvåg är det lämpligt att mäta amplitud i sträcka (meter). Om man instället mäter en ljudvåg mäter man istället tryck (Pa).
 
 - Utbredningshastighet (v) - Hastigheten som vågen färdas med.
@@ -33,11 +35,9 @@ Mekaniska vågor kan svänga på två sätt relativt utbredningsriktningen, det 
 Om en
 *** Transversella vågor
 Transversella vågor är vågor där mediet svänger vinkelrätt mot utbredningsriktningen. Ett exempel på detta vattenvågor.
-[[file:fysik2/transversellvåg.jpg]] 
 
 *** Longitudinella vågor
 Longitudinella vågor är vågor där mediet svänger parallellt med utbredningsriktningen. Ett exempel på det är ljudvågor (i ljudvågor är svängningarna inte svängningar av luftmolekylerna, utan snarare svängningar i lufttrycket).
-[[file:fysik2/longitudinellvåg.jpg]]
 
 ** Harmonisk och dämpad svängning
 Varje punkt på en våg har en kraft som verkar mot jämviktsläget. Kraften är som störst i ytterpositionerna (d.v.s topparna och dalarna). Det är dessa krafter som driver en vågrörelse. Om en våg hela tiden tillförs energi och på så sätt behåller sitt utseende kallas det för en harmonisk svängning. En våg som inte tillförs någon energi kommer att dämpas med tiden och kallas för en dämpad svängning.  
@@ -89,3 +89,48 @@ Ljud sprids sfäriskt. Ljudintensitet är den effekt som avges eller upptas per 
 | Frekvens             | svängningar/sekund        | Hz          |
 | Våglängd             | meter                     | m           |
 | Ljudintensitet       | effekt/area               | W/m²        |
+
+** Utbredningshastighet:
+Utbredingshastighet är den hastighet som en transversell våg rör sig i x-led
+
+\[ v  = \lambda f = \frac{\lambda} {T} \left[ \frac{m}{s} \right] \]
+
+** Period och frekvens
+Period är den tid det tar för en våg tar att göra en svängning. Frekvens är hur många svängningar en våg utför under en sekund. 
+
+\[ T = \frac{1}{f} \left[ s  \right] \] 
+
+
+\[ f = \frac{1}{T} \left[ \frac{m}{s} \right] \]
+** Våglängd
+Våglängd är sträckan mellan samman punkt på en våg. 
+
+\[ \lambda = \frac{v}{f} = vT \left[ m \right] \]
+** Vinkelhastighet 
+Hur många vinklar en våg roterar per tidsenhet. 
+
+\[ \omega = \frac{2 \pi}{T} \]
+** Banhastighet i cirkelrörelse
+Banhastigheten är hastigheten som är tangentiell mot cirkelns radie.
+
+\[ v = \omega r = 2 \pi f = \frac{2 \pi r}{T} =  \left[ \frac{m}{s} \right]  \]
+
+** Reflektionslagen
+Reflektionslagen säger att infallsvinkeln är lika stor som utfallsvinkeln i en reflektion.
+
+\[ \theta _i = \theta _r \]
+
+** Brytningslagen 
+När en våg går från ett tunnare medium till ett tätare medium bryts vågen mot normalen. Om vågen går från ett tätare medium till ett tunnare så bryts den från normalen. Ett mediums täthet bestäms av dess brytningsindex.
+
+\[ \frac {sin(\theta _i) } {sin(\theta _b)} = \frac{v_i}{v_b} = \frac{\lambda _i}{\lambda _b} \]
+
+** Snells lag (brytningslagen i ljus)
+\[ n_i sin(\theta _i) = n_b sin(\theta _b) \]
+
+** Brytningsindex
+Brytningsindex visar hur snabbt en våg propagerar i ett visst medium. I det här fallet ljus:
+
+\[ n = \frac {v}{c} \]
+
+ 
