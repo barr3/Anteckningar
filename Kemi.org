@@ -1,3 +1,4 @@
+
 * Kemiska bindningar
 ** Intermolekylära bindningar
 *** Jonbindning 
@@ -23,7 +24,6 @@ Atomer som har har tagit emot eller gett ifrån sig en eller fler elektroner och
 - Joniseringsenergi är den energi so krävs för att avlägsna en elektron från en atom.
 - Desto större atomradie, desto mer reaktivt blir ämnet, metallernas reaktivitet ökar alltå med perioden. 
 
-  
 *** Kovalent bindning
 En kovalent bindning är en kemisk bindning varpå två eller fler atomer delar på valenselektroner för att uppnå ädelgasstruktur, även kallat elektronparbindning eller molekylbindning.
 
@@ -47,19 +47,29 @@ Koldioxid är inte en dipol. Trots att C och O bildar polärkovalenta bindningar
 
 ** Intramolekylära bindningar
 *** Dipol-dipol-bindning
+Dipol-dipol-bindning är när två polära molekylers olika poler attraheras. Dessa bindningar är det som håller ihop molekylerna i fast form, och i vätska. En dipol-dipol-bindning är inte lika stark som en jonbindning eftersom dipolens laddningar är väldigt liten i förhållande till en joners laddningar.
 *** Vätebindning
+En vätebindning är en extra stark dipol-dipol-bindning mellan H och N,O, eller F. 
 *** van der Waalsbindning
+En van der Waalsbindning är en tillfällig dipol-dipol-bindning. I opolära molekyler (eller ädelgaser) hålls atomerna samman av svaga bindningar som bildas när elektronerna i en molekyl tillfälligt fördelar sig osymmetriskt. Då blir molekylen en tillfällig dipol som också påverkar närliggande molekyler. Då bildas en svag elektrostatisk kraft mellan de tillfälliga dipolerna. Denna bindning kallas för van der Waals-bindning. Van der Waals-bindningar är svagare är både dipol-dipol-bindningar och jonbindningar. 
 
+*** Jon-dipol-bindning
+När en dipol skapar en bindning med en jon kallas det för jon-dipol-bindning. Ett exempel på det är när man löser salt i vatten. Då omringas de individuella jonerna av vattenmolekylerna och hydratiseras.
 ** Bindningars egenskaper
-
-
-
 *** Löslighet
-*** 
+Lösligheten av ämnen beror på vilka bindningar de har. När en jonförening löses i vatten bryts de enskilda jonerna upp av de polära vattenmolekylerna. Då bildas det ett lager av vattenmolekyler runt varje jon, man säger då att jonerna har _hydratiserats_. Lösligheten för två ämnen beror på vilken struktur de har. Ju mer lika varandra de är, desto bättre löser de varandra. Man brukar ofta säga *lika löser lika*. 
+*** Metallbindningar
+Metaller binds ihop i stora elektronmoln. Valenselektronerna varandrar fritt mellan atomerna. Det är detta som gör att metaller leder ström så bra. Man brukar säga att metallerna har delokaliserade valenselektroner. Ju fler delokaliserade valenselektroner en metall har, desto högre smältpunkt har den. Delokaliserade valenselektroner gör också att metaller är formbara. De enskilda atomerna kan ändra läga utan att bindningen mellan atomerna bryts.
+
+Joner är sköra eftersom bindningarna bryts då enskilda atomer ändrar läge. Om man slår med en hammare på en jonkristall så kan det hända att positiva laddningar hamnar bredvid positiva, och negativa bredvid negativa. Då bryts kristallen.  
 
 * Organiska ämnen - Kolföreningar
+** Alkaner
+** Alkener 
+** Arener 
+** Alkoholer
+** Karboxylsyra
+** Kolhydrater 
+* Arbetsuppgifter 
 
-
-
-  
-
+5:10) Etanol är mer vattenlöslig än vad pentanol är. Eftersom etanol bara innehåller 2 kolatomer utgör hydroxid-gruppen en större del av molekylen än pentanol som har 5 kolatomer, men bara en hydroxid-grupp. I etanolmolekyl bildar hydroxid-grupperna vätebindningar med vattnet. I pentanolmolekylen är det större del av molekylen som bara påverkas av van der Waals-bindningar. 
