@@ -64,12 +64,65 @@ Metaller binds ihop i stora elektronmoln. Valenselektronerna varandrar fritt mel
 Joner är sköra eftersom bindningarna bryts då enskilda atomer ändrar läge. Om man slår med en hammare på en jonkristall så kan det hända att positiva laddningar hamnar bredvid positiva, och negativa bredvid negativa. Då bryts kristallen.  
 
 * Organiska ämnen - Kolföreningar
+** Metylgrupp 
+Metylgrupp är CH3
 ** Alkaner
+Alkaner är kolväten som innehåller en enkelbindning mellan kolatomerna. n-alkan är en ogrenad alkan där alla kolatomer är i en rak kedja. 
 ** Alkener 
 ** Arener 
 ** Alkoholer
 ** Karboxylsyra
 ** Kolhydrater 
+* Stökiometri
+** Universella atommassenheter u, unit
+Definition: 1u utgår från en atom av den vanligaste kolisotoper 12C. En atom av denna isotop 
+väger exakt 12u.
+
+1u är alltså 1/12 av kol-12-isotopens massa.
+
+\[1u = 1,66 \cdot 10^-{27} \]
+
+Siffrorna i periodiska systemet är medelvärdet av alla isotopers atommassa. 
+
+*** Formelmassa och formelenhet.
+Formelmassa är summan av alla atomers atommassa.
+
+H2O har alltså:
+
+\[ 1,02 \cdot 2 + 16,00 = 18,02u \]
+
+Etanol har :
+
+C har atommassan 12,01u
+H har atommassan 1,01u
+O har atommassan 16,00u
+
+\[ 12,01 \cdot 2 + 1,01 \cdot 5  \]
+
+Jonföreningar delar inte elektronpar och därför funkar inte molekylmassa för jonföreningar. 
+
+*** Massa, molmassa, och substansmängd
+
+- Ett dussin är 12
+- Ett halvt dussin är 6
+
+*Substansmängd*: mol.
+
+Mol kan ses som den kemiska motsvarigheten till dussin.
+
+\[ 1mol = 6,022 \cdot 10^{23} \]
+
+1 mol är alltså olika mycket för olika ämnen. 
+
+**** Molmasssa, massan av 1 mol.
+1 u utgår från att en atom kol-12 har massan 12u och defination av 1 mol är den mängd kol-12-atomer som har massan 12g. 
+
+Kols atommassa är 12.01u och 1 mol kolatomer väger 12,01g. 
+
+
+
+
+
 * Arbetsuppgifter 
 
 5:10) Etanol är mer vattenlöslig än vad pentanol är. Eftersom etanol bara innehåller 2 kolatomer utgör hydroxid-gruppen en större del av molekylen än pentanol som har 5 kolatomer, men bara en hydroxid-grupp. I etanolmolekyl bildar hydroxid-grupperna vätebindningar med vattnet. I pentanolmolekylen är det större del av molekylen som bara påverkas av van der Waals-bindningar. 
